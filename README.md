@@ -1,4 +1,4 @@
-<h2>Amazfit devices sound reccorder app.</h2>
+<h2>Amazfit devices sound recorder app.</h2>
 <img></img>
 <img src="https://i.hizliresim.com/YrS6zC.png">
 <img src="https://i.hizliresim.com/ATBH1e.png">
