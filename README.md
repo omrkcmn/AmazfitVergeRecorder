@@ -1,3 +1,6 @@
+![build](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
+
+
 <h2>Amazfit devices sound recorder app.</h2>
 <img></img>
 <img src="https://i.hizliresim.com/YrS6zC.png">
